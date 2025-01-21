@@ -1,0 +1,6 @@
+-r requirements-lint.txt
+-r requirements-test.txt
+modelscope
+
+# Avoid adding requirements directly to this file.
+# Instead, modify the two files referenced above.
